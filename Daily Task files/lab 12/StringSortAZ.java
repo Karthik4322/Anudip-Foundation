@@ -1,3 +1,5 @@
+// Write a Java program to sort in descending order an array of given string[A,X,D,Z,Y,C,W,B]
+
 import java.util.Arrays;   // make use of Arrays build in package
 import java.util.Collections; // make use of Collections package to reverse order
 
