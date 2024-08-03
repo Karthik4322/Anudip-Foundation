@@ -1,3 +1,5 @@
+// Write a Java program to sort in descending order an array of given string[A,X,D,Z,Y,C,W,B]
+
 import java.util.Arrays;   // make use of Arrays build in package
 
 class SortAZ{ 		// name of the class
