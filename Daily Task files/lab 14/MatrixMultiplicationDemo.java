@@ -1,3 +1,5 @@
+// Write a java program for 3x3 Matrix Multiplications.
+
 public class MatrixMultiplicationDemo{
     public static void main(String args[]){
     //two matrices are created here
