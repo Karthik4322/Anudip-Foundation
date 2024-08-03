@@ -1,3 +1,5 @@
+// Write a program using exception handling to handle array index out of bounds, Arithmetic exception
+
 class ThrowExample{
     int age;
    static void validateAge(int age){ // static method to call method without objectname
