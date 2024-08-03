@@ -1,3 +1,6 @@
+// Write code to declare an array of objects of a class Student with a size of 5 Initialize 
+// each object in the array with relevant data (name, age, grade) using a constructor
+
 class Student {
     private String name;
     private int age;
