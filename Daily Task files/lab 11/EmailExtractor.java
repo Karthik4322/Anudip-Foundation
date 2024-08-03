@@ -1,3 +1,7 @@
+// Extract  mail id from the given text.
+
+// text: Hey, there how are you? this is my email id  great123@gmail.com
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
