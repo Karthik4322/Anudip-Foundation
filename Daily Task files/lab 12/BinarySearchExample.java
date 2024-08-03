@@ -1,3 +1,5 @@
+// Write a Java program to search the particular integer in a list(key=67),list[45,35,56,67,78,89,78,12,20]
+
 class BinarySearchExample{   // name of class
  public static void binarySearch(int arr[], int first, int last, int key){   // void method with parameters receiving values of array capacity,starting index 											// ending  index , key value to be searching
    int mid = (first + last)/2;  	// finding mid value to find which side to look for value
