@@ -1,3 +1,5 @@
+// Write a  java program for Exception Handling using throw keyword
+
 public class MultipleExceptions {
 
     public static void getExceptions() throws ArithmeticException, ArrayIndexOutOfBoundsException {
