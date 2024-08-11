@@ -1,3 +1,18 @@
+/*create class name Book,and perform following actions:
+
+Attributes:
+
+bookid,bookName,bookPrice,authorName,library name(static),availability
+
+method:
+
+createBook() will store book details.(add  3 books).
+
+deleteBook() will delete book by Id
+
+displayBook()will display book details*/
+
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
