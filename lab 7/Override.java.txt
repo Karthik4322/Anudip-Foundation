@@ -1,0 +1,37 @@
+class Animal{
+
+void sound(){
+	
+System.out.println("Sound");
+
+}
+
+class Dog extends Animal{
+
+void sound(){
+
+System.out.println("Barking");
+
+}
+
+class Cat extends Animal{
+
+void sound(){
+
+System.out.println("Meow Meow");
+
+}
+}
+class Override{
+public static void main(String args[]){
+
+Dog d = new Dog();
+Cat c = new Cat();
+
+System.out.println(d.sound());
+System.out.println(c.sound());
+
+}
+}
+
+	
