@@ -1,0 +1,29 @@
+package person;
+import java.util.Scanner;
+
+public class Employment{
+
+String designation;
+double salary;
+String companyName;
+int workExperience;
+id empID;
+
+Scanner sc = new Scanner(System.in);
+System.out.println("Enter the empID : " );
+empID = sc.nextInt();
+System.out.println("Enter the designation : " );
+designation = sc.nextLine();
+System.out.println("Enter the company name : " );
+companyName = sc.nextLine();
+System.out.println("Enter the work experience : " );
+workExperience = sc.nextInt();
+System.out.println("Enter the salary : " );
+salary = sc.nextDouble();
+
+
+
+
+
+
+
